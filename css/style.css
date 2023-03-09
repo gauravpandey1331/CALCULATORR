@@ -1,0 +1,39 @@
+.bgimg{
+    background-image: url(../asset/calculatorbackground.webp);
+   padding: 70px;
+   margin: 0px;
+}
+.container{
+    text-align: center;
+    margin-top: 23px;
+    border-radius: 12%;
+}
+table{
+    margin: auto;
+}
+input{
+    font-size: 30px;
+    border: 3px solid;
+    border-radius: 8px;
+}
+button{
+    font-size: 40px;
+    width: 76px;
+    height: 76px;
+    background: #aec0d3;
+    font-weight: 900;
+    border-radius: 10px;
+}
+.calculator{
+    display: inline-block;
+    border: 3px solid;
+    border-radius: 16px;
+    padding: 11px;
+    background: #336699;
+}
+.calculator table tr td button span{
+    color: #e69159;
+}
+.container h1 span{
+    color: rgb(228, 36, 78);
+}
